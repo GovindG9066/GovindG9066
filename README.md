@@ -35,6 +35,7 @@ I'm learning and building projects step by step while collaborating with AI for 
 
 ## 📫 Let's Connect
 - GitHub: [GovindG9066](https://github.com/GovindG9066)
+- Protfolio: https://portfolio-omega-three-84.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/govindgadekar/
 - Email: gadekargovind575@gmail.com
 
