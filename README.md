@@ -14,6 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer currently pursuing my f
 ⚡ Fun Fact: I love designing intuitive user interfaces while ensuring backend efficiency!
 
 🏗️ Projects I'm Working On
+
 1️⃣ MoneyMate - Expense Tracker
 Tech Stack: Spring Boot, MySQL, HTML, TailwindCSS, JavaScript, Chart.js
 
