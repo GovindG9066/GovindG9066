@@ -50,9 +50,10 @@ I love building projects step by step 🪜, collaborating with AI 🤖 for guida
 
 ## 📫 Let's Connect
 - 🌐 **GitHub:** [GovindG9066](https://github.com/GovindG9066)
-- 🧑‍💼 **Portfolio:** https://portfolio-omega-three-84.vercel.app/
-- 💼 **LinkedIn:** https://www.linkedin.com/in/govindgadekar/
-- 📩 **Email:** gadekargovind575@gmail.com
+- 📁 **All Projects:** [All_Projects_Link](https://linktr.ee/Govindg9066)
+- 🧑‍💼 **Portfolio:** [Govind_Portfolio](https://portfolio-omega-three-84.vercel.app/)
+- 💼 **LinkedIn:** [Govind_gadekar](https://www.linkedin.com/in/govindgadekar/)
+- 📩 **Email:** [Govind_Mail_Id](gadekargovind575@gmail.com)
 
 ---
 
