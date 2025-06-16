@@ -32,6 +32,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
+
 ---
 
 ### 📈 GitHub Analytics
@@ -41,7 +42,7 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindG9066&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GovindG9066&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GovindG9066&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
