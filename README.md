@@ -43,6 +43,17 @@
 
 ---
 
+## 🚀 Highlighted Projects
+
+| 🛠️ Project             | 🔍 Description                                                                 | 🔗 Link            |
+|------------------------|----------------------------------------------------------------------------------|--------------------|
+| 🌧️ Raintro             | Weather app using GeoDB API with city auto-suggestions and responsive UI        | [Live Demo](https://raintro.vercel.app) / [Repo](https://github.com/GovindG9066/Raintro) |
+| 💰 MoneyMate           | Expense tracker web app with income, spend history, and dynamic charts           | [Repo](https://github.com/GovindG9066/MoneyMate) |
+| ✋ HandTrackingWebApp  | Gesture-based web app that tracks hand movement using MediaPipe + JS             | [Repo](https://github.com/GovindG9066/HandTrackingWebApp) |
+| 🛍️ Amazon Clone        | Frontend clone of Amazon website for UI practice (educational purpose only)     | [Repo](https://github.com/GovindG9066/amazon-clone) |
+
+---
+
 ### 🔗 Connect with Me
 
 - 📫 Email: gadekargovind575@gmail.com  
