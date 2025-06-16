@@ -34,19 +34,19 @@
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=govindgadekar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GovindG9066&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=govindgadekar&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindG9066&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=govindgadekar&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GovindG9066&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🔗 Connect with Me
 
-- 📫 Email: govindgadekar123@gmail.com  
-- 🌐 Portfolio: [Coming Soon...]  
-- 💼 LinkedIn: [Update here when ready]
+- 📫 Email: gadekargovind575@gmail.com  
+- 🌐 Portfolio: [https://portfolio-omega-three-84.vercel.app/]  
+- 💼 LinkedIn: [https://www.linkedin.com/in/govind-gadekar-635441252/?trk=opento_sprofile_details]
 
 ---
