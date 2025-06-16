@@ -1,60 +1,52 @@
-# 🙋‍♂️ Hi, I'm **Govind Dagadu Gadekar** &nbsp;🚀
-
-Welcome to my GitHub profile! I'm a passionate developer 👨‍💻 currently pursuing my final year of **BSc-IT** 🎓. I enjoy crafting creative web experiences, solving real-world problems, and learning cutting-edge technologies! 🌐✨
-
----
-
-## 💡 About Me
-- 🔍 **Interests:** Full-Stack Development 💻, Java Programming ☕, Cloud Computing ☁️, and UI/UX Design 🎨
-- 📚 **Currently Learning:** Spring Boot 🌿, Advanced Java 🧩, WordPress 🌍, and Photoshop 🖌️
-- 🛠️ **Skills:** Java, Python 🐍, JavaScript ⚡, PHP 🐘, R 📊, SQL 🧮, HTML 🧱, CSS 🎀, Tailwind CSS 🌬️, and Database Management 🗄️
-- 🤝 **Looking to Collaborate On:** Web applications 🌐, Java-based projects ☕, and cloud-based solutions 🌩️
-- 😄 **Fun Fact:** I love building **clean UIs** with strong **backend logic** — beauty meets brains! 💡❤️‍🔥
+<h1 align="center">Hi 👋, I'm Govind Dagadu Gadekar</h1>
+<h3 align="center">🚀 Final Year BSc-IT Student | Web Developer | Tech Explorer</h3>
 
 ---
 
-## 🏗️ Projects I'm Working On
+### 🧠 About Me
 
-### 💰 1️⃣ MoneyMate - Expense Tracker
-- **Tech Stack:** Spring Boot, MySQL, HTML, TailwindCSS, JavaScript, Chart.js 📊
-- **Features:**
-  - Track expenses 📆 (daily, weekly, monthly)
-  - Dynamic graphs 📈 for spending trends
-  - Real-time balance 💸 and transaction history 📋
-  - Smooth UI with hover effects ✨
-
----
-
-### ☁️ 2️⃣ Weather App using OpenWeather API
-- **Tech Stack:** HTML, CSS, JavaScript, OpenWeather API 🌤️
-- **Objective:** Display real-time weather info 🌍 by city name with a clean, mobile-friendly interface 📱
+- 🎓 I'm currently pursuing my **BSc in Information Technology**  
+- 💻 I love working on **web development projects**
+- 🌱 Currently learning **Spring Boot + MongoDB + React**
+- 🌐 I enjoy building **real-world projects** like **MoneyMate**, **Raintro**, and more
+- 💡 Exploring **open-source contributions** via **EddieHub** and **FirstTimersOnly**
+- 🛠️ Always excited to learn **new tech tools** and solve problems logically
 
 ---
 
-### 🔁 3️⃣ LocaXchange - My First Web App
-- **Tech Stack:** Django, Bootstrap, HTML, CSS, JavaScript 🛠️
-- **Objective:** Full-stack learning experience 🎓 — CRUD operations, styling & backend logic
+### 🧰 Tech Stack & Tools
+
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<br/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-F29111?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 ---
 
-### 🖐️ 4️⃣ Hand-Gesture Based Zooming System
-- **Tech Stack:** HTML, CSS, JavaScript, Java 📷
-- **Objective:** Use camera to recognize hand gestures ✋ and apply zoom-in/out features 🔍
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=govindgadekar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=govindgadekar&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=govindgadekar&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 🧠 How I Work
-I love building projects step by step 🪜, collaborating with AI 🤖 for guidance, and solving tough bugs 🔧. I aim to deliver **efficient**, **user-friendly**, and **scalable** apps 💪.
+### 🔗 Connect with Me
+
+- 📫 Email: govindgadekar123@gmail.com  
+- 🌐 Portfolio: [Coming Soon...]  
+- 💼 LinkedIn: [Update here when ready]
 
 ---
-
-## 📫 Let's Connect
-- 🌐 **GitHub:** [GovindG9066](https://github.com/GovindG9066)
-- 📁 **All Projects:** [All_Projects_Link](https://linktr.ee/Govindg9066)
-- 🧑‍💼 **Portfolio:** [Govind_Portfolio](https://portfolio-omega-three-84.vercel.app/)
-- 💼 **LinkedIn:** [Govind_gadekar](https://www.linkedin.com/in/govindgadekar/)
-- 📩 **Email:** gadekargovind575@gmail.com
-
----
-
-### 🛠️ Let’s build something **amazing** together! 🚀💻🔥
